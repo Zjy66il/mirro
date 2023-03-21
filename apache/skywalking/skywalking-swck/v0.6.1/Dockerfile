@@ -1,1 +1,1 @@
-FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.8.0
+FROM apache/skywalking-swck:v0.6.1
