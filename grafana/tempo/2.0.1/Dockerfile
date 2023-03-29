@@ -1,0 +1,1 @@
+FROM grafana/tempo:2.0.1
