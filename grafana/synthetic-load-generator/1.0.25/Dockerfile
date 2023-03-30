@@ -1,0 +1,1 @@
+FROM omnition/synthetic-load-generator:1.0.25
