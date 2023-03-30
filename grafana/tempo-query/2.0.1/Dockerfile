@@ -1,0 +1,1 @@
+FROM grafana/tempo-query:2.0.1
