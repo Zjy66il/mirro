@@ -1,0 +1,1 @@
+FROM apache/skywalking-swck:v0.7.0
