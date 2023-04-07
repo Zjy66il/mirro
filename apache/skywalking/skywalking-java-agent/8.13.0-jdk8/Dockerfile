@@ -1,1 +1,0 @@
-FROM apache/skywalking-java-agent:8.13.0-jdk8
